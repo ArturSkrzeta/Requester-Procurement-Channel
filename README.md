@@ -12,4 +12,7 @@
   <li>AJAX applied for geting data without refreshing page.</li>
 </ul>
 <h3>Demo</h3>
+<p>Login Page</p>
 <img src="images/loginpage2.gif">
+<p>Main Page</p>
+<img src="images/procyou.gif">
