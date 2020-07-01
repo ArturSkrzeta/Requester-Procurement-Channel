@@ -1,4 +1,4 @@
-<h1>Requestor Procurement Communaction Channel - ProcYou</h1>
+<h1>Requester-Procurement Channel - ProcYou</h1>
 <h3>Intro</h3>
 <ul>
   <li>Getting feedback for a consumer/client is the best way to deploy the process continues improvement.</li>
